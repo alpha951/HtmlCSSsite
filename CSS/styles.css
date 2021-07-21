@@ -49,18 +49,22 @@ h1 {
 }
 .profile {
   background-color: #e4fbff;
+  width: 100%;
 }
 .skills {
   background-color: #f1ecc3;
+  width: 100%;
 }
-#giphy {
+/* #giphy {
   background-color: #edf6e5;
-}
+} */
 .bottom-container {
   background-color: #a0937d;
+  width: 100%;
 }
 .contact-me {
   background-color: #a0937d;
+  width: 100%;
 }
 #contact {
   width: 100px;
