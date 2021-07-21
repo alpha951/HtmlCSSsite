@@ -16,7 +16,7 @@ span {
 #mountain {
   position: relative;
   left: 80px;
-  padding-bottom: 5px;
+  padding-bottom: 50px;
 }
 #cloud2 {
   position: absolute;
@@ -28,15 +28,17 @@ span {
   left: 1100px;
 }
 .selfWritten {
-  font-size: 250%;
+  font-size: 2.5rem; /*40px*/
+
   font-style: oblique;
   font-family: "Lobster", cursive;
 }
 h1 {
+  margin: 50px auto 0 auto;
   font-family: "Kaushan Script", cursive;
 }
 .programmer {
-  padding-top: 5px;
+  padding-top: 50px;
   width: 100px;
 }
 .tools-img {
@@ -45,7 +47,7 @@ h1 {
   width: 100px;
 }
 #keshav {
-  font-size: 500%;
+  font-size: 8rem;
 }
 .profile {
   background-color: #e4fbff;
@@ -67,8 +69,8 @@ h1 {
   width: 100%;
 }
 #contact {
-  width: 100px;
-  height: 100px;
+  width: 10%;
+  height: 10%;
 }
 hr {
   display: block;
@@ -78,9 +80,43 @@ hr {
   margin-inline-start: auto;
   margin-inline-end: auto;
   overflow: hidden;
-  border-style: inset;
+  border-style: dashed;
   border-width: 0px;
+}
+.special-hr {
+  border-style: dotted;
+  border-width: 2px;
+  width: 10%;
+}
+.special-hr2 {
+  border-style: dotted;
+  border-width: 2px;
+  width: 13%;
+}
+.special-hr3 {
+  border-style: dotted;
+  border-width: 2px;
+  width: 28%;
 }
 span {
   text-decoration: none;
+}
+h3 {
+  color: #11999e;
+}
+a {
+  color: #6b3f04;
+}
+h1 {
+  color: #66bfbf;
+}
+h2 {
+  color: #66bfbf;
+  font-weight: bold;
+}
+#contact-line {
+  color: rgb(0, 0, 0);
+}
+#about-line {
+  padding-bottom: 25px;
 }
