@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+}
+.top_container {
+  /* width: 200px;
+  height: 200px; */
+  margin: 0px;
+  background-color: #628395;
+  border: solid 3px;
+  border-color: black;
+}
+
+span {
+  text-decoration: underline;
+}
+#mountain {
+  position: relative;
+  left: 80px;
+  padding-bottom: 5px;
+}
+#cloud2 {
+  position: absolute;
+  bottom: 550px;
+  left: 250px;
+}
+.cloud-top {
+  position: absolute;
+  left: 1100px;
+}
+.selfWritten {
+  font-size: 250%;
+  font-style: oblique;
+  font-family: "Lobster", cursive;
+}
+h1 {
+  font-family: "Kaushan Script", cursive;
+}
+.programmer {
+  padding-top: 5px;
+  width: 100px;
+}
+.tools-img {
+  margin: 35px;
+
+  width: 100px;
+}
+#keshav {
+  font-size: 500%;
+}
+.profile {
+  background-color: #e4fbff;
+}
+.skills {
+  background-color: #f1ecc3;
+}
+#giphy {
+  background-color: #edf6e5;
+}
+.bottom-container {
+  background-color: #a0937d;
+}
+.contact-me {
+  background-color: #a0937d;
+}
+#contact {
+  width: 100px;
+  height: 100px;
+}
+hr {
+  display: block;
+  unicode-bidi: isolate;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 0px;
+}
+span {
+  text-decoration: none;
+}
